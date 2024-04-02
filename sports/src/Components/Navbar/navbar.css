@@ -1,0 +1,16 @@
+.header button
+{
+    background-color:rgb(254, 2, 2);
+    border: 0px;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    border-radius: 10%;
+    margin:0px 50px;
+    padding: 1vw 2vw;
+
+}
+.header
+{
+    background-color: red;
+}
